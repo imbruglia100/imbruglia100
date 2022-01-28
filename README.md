@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imbruglia100
-- 👀 I’m interested in web Development
-- 🌱 I’m currently learning JS,H,C
+- 👀 I’m interested in Web3
+- 🌱 I’m currently learning JS,HTML,CSS
 - 📫 PM me if needed
 
 <!---
