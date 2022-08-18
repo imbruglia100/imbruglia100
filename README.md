@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @imbruglia100
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning JS,HTML,CSS
+- 👋 Hi, I’m Frank
+- 👀 I’m interested in making websites
+- 🌱 I completed Codecademy's front end development course
 - 📫 PM me if needed
 
 <!---
