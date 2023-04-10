@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Frank
 - 👀 I’m interested in making websites
 - 🌱 I completed Codecademy's front end development course
+- 💎 Currently working on backend (AWS, Data streaming)
 - 📫 PM me if needed
 
 <!---
