@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frank
 - 👀 I’m interested in designing websites
-- 🌱 I completed Codecademy's front-end development course
+- 🌱 I am currently enrolled in App Academy's part time program!
 - 💎 Currently taking App Academy's part-time boot camp
 
 <!---
