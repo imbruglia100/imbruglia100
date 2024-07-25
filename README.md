@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Frank
 - 👀 I’m interested in designing websites
-- 🌱 I am currently enrolled in App Academy's part time program!
-- 💎 Currently taking App Academy's part-time boot camp
+- 🌱 I am currently enrolled in App Academy's part-time program!
 
 <!---
 imbruglia100/imbruglia100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
