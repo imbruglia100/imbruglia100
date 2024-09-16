@@ -52,6 +52,7 @@ Browse huts to stay in anywhere in the world!
 [GitHub Repo](https://github.com/imbruglia100/huthunt)
 
 more projects on my personal site!
+
 ---
 
 Thanks for stopping by! 😄
