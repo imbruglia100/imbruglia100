@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 Here are some of the tools and technologies I work with:
 
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
-- **Frontend**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![Next](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+- **Frontend**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![Next](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 - **Backend**: ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=python)
 - **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-web-services) ![S3](https://img.shields.io/badge/-S3-black?style=flat-square&logo=amazon-s3)
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
