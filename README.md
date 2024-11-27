@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: **Digital Front** - Where users can create/browse stores and products 💸
-- 🌱 I’m learning: **React Native** - because I want to dive deeper into mobile apps!
+- 🌱 I’m learning: **Java** 
 - ⚡ Fun fact: I used to teach Jiu Jitsu at my local dojo
 - ✈️ Next trip: Barcelona ⚽
 
