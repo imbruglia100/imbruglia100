@@ -56,4 +56,4 @@ more projects on my personal site!
 
 ---
 
-Thanks for stopping by! 😄
+Thanks for stopping by!! 😄
