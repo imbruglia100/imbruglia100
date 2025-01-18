@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 - 🔭 I’m currently working on: **Digital Front** - Where users can create, browse and buy stores and products 💸
 - 🌱 I’m learning: **Rust** 
-- ⚡ Fun fact: I used to teach Jiu Jitsu at my local dojo
+- ⚡ Fun fact: I used to teach Jiu Jitsu at my local dojo!
 - ✈️ Next trip: Barcelona ⚽
 
 ---
