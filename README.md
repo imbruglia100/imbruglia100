@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **Digital Front** - Where users can create, browse and buy stores and products 💸
+- 🔭 I’m currently working on: **MedAI App** - A simple medical AI chat bot 🤖
 - 🌱 I’m learning: **Cybersecurity** 
 - ⚡ Fun fact: I used to teach Jiu Jitsu at my local dojo!
 - ✈️ Next trip: Sint Marteen 
